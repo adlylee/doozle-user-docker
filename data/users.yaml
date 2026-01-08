@@ -1,0 +1,6 @@
+users:
+    admin:
+        email: me@email.net
+        name: Admin
+        password: 
+        filter: ""
