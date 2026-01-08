@@ -6,3 +6,5 @@ Generate with =>
 Ganti secret jadi password yang di inginkan
 <br>
 paste hash di file user.yaml didalam folder data
+<br>
+jalankan menggunakan <i>docker compose up -d</i>
